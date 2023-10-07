@@ -7,9 +7,9 @@ Hi there! I'm a student who's interested in coding with Python, and I'm currentl
 <a href="https://github.com/1drturtle/1drturtle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1drturtle&theme=dracula&langs_count=3" />
 </a>
-<a href="https://github.com/1drturtle/1drturtle">
+<!-- <a href="https://github.com/1drturtle/1drturtle">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1drturtle&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Chris' GitHub Stats" />
-</a>
+</a> -->
 
 ## 🔧Technology and Tools
 ![](https://img.shields.io/badge/OS-Win_10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
