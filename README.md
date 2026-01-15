@@ -5,8 +5,11 @@ Hi there! I'm a student who's interested in coding with Python, and I'm currentl
 ## &#x1f4c8; GitHub Stats
 
 ![Stats](./profile/stats.svg)
+
+
+
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 
 ## 🔧Technology and Tools
