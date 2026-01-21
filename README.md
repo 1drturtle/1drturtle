@@ -1,6 +1,6 @@
 # Welcome to my Github! 👋
 
-Hi there! I'm a student who's interested in coding with Python, and I'm currently learning Java.
+Hi there! I'm a DevOps student with interests in Platform Engineering and Distributed Computing. I'm currently learning K8S and Go!
 
 ## &#x1f4c8; GitHub Stats
 
