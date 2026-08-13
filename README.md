@@ -4,8 +4,7 @@ Hi there! I'm a DevOps student with interests in Platform Engineering and Distri
 
 ## &#x1f4c8; GitHub Stats
 
-![Stats](./profile/stats.svg)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=1drturtle&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=1drturtle&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
 
 
 ![Top Languages](./profile/top-langs.svg)
